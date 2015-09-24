@@ -4,5 +4,5 @@ Meant to display a simple app that reflects the knowledge I've gained through my
 
 Useful for testing libraries with Opal
 
-	bundle install
-	bundle exec rackup
+    bundle install
+    bundle exec rackup
